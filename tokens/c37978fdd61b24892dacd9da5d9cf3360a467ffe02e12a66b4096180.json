@@ -1,0 +1,9 @@
+{
+    "policyId": "c37978fdd61b24892dacd9da5d9cf3360a467ffe02e12a66b4096180",
+    "name": "LOSTARK",
+    "symbol": "LSAK",
+    "website": "https://lostark.game.onstove.com/",
+    "description":"Lost Ark's internal trading system It's a monetary reward token",
+    "totalSupply": 100000000,
+    "amounts": [1000, 10000, 100000, 1000000, 10000000,]
+}
